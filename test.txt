@@ -1,1 +1,2 @@
 thuis is the ex for cloning the local to git
+summa line
